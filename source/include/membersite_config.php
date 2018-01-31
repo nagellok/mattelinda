@@ -13,7 +13,7 @@ $fgmembersite->SetAdminEmail('info@mattelinda');
 //hostname, user name, password, database name and table name
 //note that the script will create the table (for example, fgusers in this case)
 //by itself on submitting register.php for the first time
-$fgmembersite->InitDB(/*hostname*/'localhost',
+$fgmembersite->InitDB(/*hostname*/'www.mattelinda.se',
                       /*username*/'noac',
                       /*password*/'!QA2ws3ed',
                       /*database name*/'userdb',
